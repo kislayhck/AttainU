@@ -1,7 +1,7 @@
 ![](Readme_img/home.png)
 ![](Readme_img/signup.png)
 ![](Readme_img/login.png)
-![](Readme_img/signup.png)
+![](Readme_img/capitals.png)
 
 #Instructions
 1)Install the node modules individually in main directory and client folder by using npm install.
